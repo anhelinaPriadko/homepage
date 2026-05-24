@@ -1,6 +1,6 @@
-# homepage
-My first personal website. After all, it is just a résumé.
+# Personal Website & Portfolio
 
+A production-ready digital résumé and portfolio showcasing my software engineering experience, academic background, and technical projects.
 
-And here we go, you can see the latest released version here:
+Check out the live deployment here:
 https://anhelinapriadko.github.io/homepage/
